@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511973050 source:c:\users\marti\desktop\vŠb\dÚ3\main.cpp
+	<cstdio>
+	<cstdlib>
+	<cctype>
+	<cstring>
+	<iostream>
+	<iomanip>
+	<fstream>
+	<sstream>
+	<string>
+
